@@ -35,7 +35,7 @@ NeuroHack will span 3 days from 10am–4pm. We expect you to be on time and pres
 
 | Time          |      Activity      |
 |---------------|:------------------|
-| 09:00 – 11:45 | Hacking |
+| 10:00 – 11:45 | Hacking |
 | 11:45 – 12:00 | Post project updates |
 | 12:00 – 01:00 | Lunch and socializing |
 | 01:00 – 04:00 | Hacking |
@@ -44,7 +44,7 @@ NeuroHack will span 3 days from 10am–4pm. We expect you to be on time and pres
 
 | Time          |      Activity      |
 |---------------|:------------------|
-| 09:00 – 12:00 | Hacking to wrap up projects |
+| 10:00 – 12:00 | Hacking to wrap up projects |
 | 12:00 – 01:00 | Lunch and socializing |
 | 01:00 – 02:30 | Hacking to wrap up projects |
 | 02:30 – 04:00 | Group presentations |
