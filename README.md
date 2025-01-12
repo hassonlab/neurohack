@@ -6,9 +6,15 @@ We will provide you with three datasets and tutorials to help you get started. T
 
 We will provide three datasets for you to work on, which we will introduce on the first day.
 
-1. A unique electrocorticography (ECoG) [dataset]() acquired while epilepsy patients listened to a podcast.
-2. An [fMRI dataset](https://github.com/snastase/narratives) with hundreds of subjects listening to a diverse set of spoken stories
-3. 24 hours worth of ECoG recordings of one subject.
+1. A unique electrocorticography (ECoG) dataset acquired while epilepsy patients listened to a podcast
+    1. [Tutorials](http://hassonlab.github.io/podcast-ecog-tutorials)
+    1. [Dataset](https://openneuro.org/datasets/ds005574)
+1. An fMRI dataset with hundreds of subjects listening to a diverse set of spoken stories
+    1. [Tutorials](https://github.com/snastase/encling-tutorial)
+    1. [Dataset](https://github.com/snastase/narratives)
+    2. [Paper](https://doi.org/10.1038/s41597-021-01033-3)
+1. 24 hours worth of ECoG recordings of one subject.
+    1. [Tutorials](https://github.com/leoniekerken/ECoG-foundation-model/tree/main/notebooks)
 
 These datasets allow you to investigate aspects of language processing and narrative comprehension; and are accompanied by several published papers that can be used as examples or goals for replication.
 
