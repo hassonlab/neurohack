@@ -26,7 +26,7 @@ NeuroHack will span 3 days from 10am–4pm. We expect you to be on time and pres
 |---------------|:------------------|
 | 10:00 – 10:10 | Registration |
 | 10:10 – 10:30 | Welcome presentation & introductions |
-| 10:30 – 12:00 | Go through tutorials |
+| 10:30 – 12:00 | Explore datasets, tutorials, and projects |
 | 12:00 – 01:00 | Lunch and socializing |
 | 01:00 – 02:00 | Group formation and project decisions |
 | 02:00 – 04:00 | Hacking |
